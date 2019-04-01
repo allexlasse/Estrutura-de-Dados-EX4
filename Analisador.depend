@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1554086375 source:c:\users\allex\desktop\ads\3_ciclo\estrutura de dados\analisador de expressoes\analisador\main.cpp
+	<iostream>
+	<cstring>
+	"Pilha.h"
+
+1554084890 c:\users\allex\desktop\ads\3_ciclo\estrutura de dados\analisador de expressoes\analisador\pilha.h
+
